@@ -122,3 +122,4 @@ This modpack is licensed under MIT, which means you’re free to reuse part of t
 * Zoomify - zoom mod
 * [EMF] Entity Model Features - support for custom entity models
 * [ETF] Entity Texture Features - support for custom entity texture
+* BetterHurtCam - Better Hurt Camera mod
