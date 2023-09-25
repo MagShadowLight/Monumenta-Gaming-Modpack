@@ -1,0 +1,4 @@
+Planned Feature for next update:
+
+- Consider Forget Me Chunk mod if it will be added
+- Rework the menu with drop-down option
