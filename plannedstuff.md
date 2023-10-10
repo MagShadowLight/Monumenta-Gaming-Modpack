@@ -12,3 +12,4 @@ Planned Feature for next update:
 - separate the mod list into two different branch
 - make a zip version for the modpack in github
 - change the description to reflect the change
+- make a discord based on all the project that I made
