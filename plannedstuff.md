@@ -9,3 +9,4 @@ Planned Feature for next update:
 - change minimap mod to fairplay version
 - make a non-essential version
 - consider if Njol's HUD will be added or not
+- separate the mod list into two different branch
