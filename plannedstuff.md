@@ -11,3 +11,4 @@ Planned Feature for next update:
 - consider if Njol's HUD will be added or not
 - separate the mod list into two different branch
 - make a zip version for the modpack in github
+- change the description to reflect the change
