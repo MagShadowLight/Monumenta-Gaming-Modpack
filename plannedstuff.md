@@ -3,7 +3,7 @@ Planned Feature for next update:
 - Consider Forget Me Chunk mod if it will be added or not
 - Rework the main menu with drop-down option
 - edit the pause menu layout
-- consider if the Homestead GUI will be added or not
+- consider if the Homestead GUI will be added or not or make a GUI RP
 - make a quest flowchart and link it in game
 - add a monumenta tumblr link
 - change minimap mod to fairplay version
