@@ -1,6 +1,6 @@
 Planned Feature for next update:
 
-- Consider Forget Me Chunk mod if it will be added
+- Consider Forget Me Chunk mod if it will be added or not
 - Rework the menu with drop-down option
 - edit the pause menu layout
 - consider if the Homestead GUI will be added or not
@@ -8,3 +8,4 @@ Planned Feature for next update:
 - add a monumenta tumblr link
 - change minimap mod to fairplay version
 - make a non-essential version
+- consider if Njol's HUD will be added or not
