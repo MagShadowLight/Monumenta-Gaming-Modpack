@@ -8,14 +8,15 @@ This modpack has the following content listed below:
 
 - Performance improvement mods
     - Sodium
-- Monumenta official Resource Pack+
+- Monumenta official Resource Pack +
 - Monumenta General Music Pack: https://files.playmonumenta.com/resource-packs/MonumentaMusicPack.zip +
     - Contains the music for Overworld, dungeons, strikes, bosses, & towns
+- Monumenta Custom Music Pack
 - General Gameplay mods
     - Shulker box tooltip
     - Advanced Chat
         - Fully set up and ready to go
-    - Essential
+    - Essential (there is non-essential version if you don't like essential)
     - Jade
     - JsMacros (disabled by default due to issues between fancymenu mods & this mod)
     - Inventory HUD+
@@ -24,18 +25,25 @@ This modpack has the following content listed below:
     - Unofficial monumenta mod
     - Monumenta Item Dictionary
 - Many more. Check out the mod list in GitHub
- + = check on monumenta discord for updates, however I probably will update the modpack with resource pack whenever it updated
+- check on monumenta discord for updates, however I probably will update the modpack with resource pack whenever it updated = +
 
 ## Installation:
 
 ### Vanilla Launcher:
 
+Windows:
 1. Download this modpack from Modrinth website, it should say .mrpack at the end of file.
 2. Find the mrpack file and change file extension to .zip
 3. Extract the .zip file using 7zip or something else
-4. Once it finished extracted, go inside that folder and copy the content inside that folder
+4. Once it finished extracted, go inside the override folder and copy the content inside that folder
 5. Paste it into .minecraft folder. You should find it when you type %appdata% on windows *
-* I’m not too sure for Mac, I have never used Mac before
+
+Mac:
+1. download this modpack from Modrinth website, it should say .mrpack at end of file
+2. Find the mrpack file and change file extension to .zip
+3. Extract the .zip file
+4. Once it finished extracted, go inside the override folder and copy the content inside that folder
+5. go to ~/Library/Application Support/minecraft path and paste it into that folder
 
 ## License:
 
@@ -49,4 +57,4 @@ This modpack is licensed under MIT, which means you’re free to reuse part of t
 
 ## Known Issue:
 
-- None
+- misalignment and miscenter of GUI
